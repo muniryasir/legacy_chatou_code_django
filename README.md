@@ -1,0 +1,1 @@
+# legacy_chatou_code_django
